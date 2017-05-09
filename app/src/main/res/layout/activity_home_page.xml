@@ -27,10 +27,6 @@
         android:layout_height="wrap_content"
         android:id="@+id/linearLayout">
 
-        <!--android:scaleType = "centerCrop"
-            android:src="@drawable/engie"/>-->
-
-
         <Button
             android:id="@+id/buttonInscription"
             android:text="@string/registration"
