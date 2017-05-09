@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoEngie</string>
+    <string name="navigation_drawer_open">Ouverture navigation drawer</string>
+    <string name="navigation_drawer_close">Fermeture navigation drawer</string>
+    <string name="home">Accueil</string>
+    <string name="my_account">Mon Compte</string>
+    <string name="logout">Se déconnecter</string>
+    <string name="registration">Inscription</string>
+    <string name="enter_name_email">Entrez votre nom et email</string>
+    <string name="create_account">Créer mon compte</string>
+</resources>

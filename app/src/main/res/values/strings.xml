@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoEngie</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="home">Home</string>
+    <string name="my_account">My Account</string>
+    <string name="logout">Logout</string>
+    <string name="registration">Registration</string>
+    <string name="enter_name_email">Enter name and email</string>
+    <string name="create_account">Create my account</string>
+</resources>
